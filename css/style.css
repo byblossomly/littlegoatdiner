@@ -17,5 +17,12 @@
 
 h3 {
     font-size: 2em !important;
-    font-family: "TheHammerSlabserif", serif;
+    font-family: "SignPainterHouseScript", serif;
+}
+
+
+h4{
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  
 }
