@@ -14,6 +14,11 @@
 }
 
 
+.title{
+  text-transform: lowercase !important;
+
+}
+
 
 h3 {
     font-size: 2em !important;
