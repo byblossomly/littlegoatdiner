@@ -17,12 +17,11 @@
 
 h3 {
     font-size: 2em !important;
-    font-family: "SignPainterHouseScript", serif;
+    font-family: "SignPainterHouseScript", serif !important;
 }
 
 
-h4{
-  font-family: "Oswald", sans-serif;
-  text-transform: uppercase;
+.description.text{
+ font-family: "Poppins", sans-serif !important;
   
 }
