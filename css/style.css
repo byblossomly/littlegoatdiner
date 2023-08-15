@@ -38,5 +38,7 @@ h3 {
 
   text-transform: none !important;
   font-family: "Poppins", sans-serif !important;
+  background-color: white;
+  border-radius: 2em;
 
 }
